@@ -1,1 +1,1 @@
-# Email-Appplication
+# Console-Email-Appplication using Java
